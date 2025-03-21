@@ -8,6 +8,7 @@
                                           --------------------------------------
                                               * pip install google-generativeai
                                           //////////////////////////////////////
+                                          
                                            ⚒Nasıl Açık kaynak kodunu alırım.🛠
                       💖Github üzerinden main.py dosyasını açın ordan açık kaynak kodunu görebilirsiniz💖
                        
