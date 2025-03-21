@@ -2,7 +2,7 @@
                                 🎉Maenglish yapay zekalı ingilizce açık kaynak kodu.✨
                                 
                                        📚Hangi Kütüphaneleri Kurmalıyım Ve Nasıl kurmalıyım📚
-💖Windows tuşu ve R ya basın ordan "cmd" yazın. Ordanda altdaki kütüphaneleri tek tek yazın ve entera basınca otomatik kurulcaktır.💖
+        💖Windows tuşu ve R ya basın ordan "cmd" yazın. Ordanda altdaki kütüphaneleri tek tek yazın ve entera basınca otomatik kurulcaktır.💖
                                            //////////////////////////////////////
                                               * pip install PyQt6
                                           --------------------------------------
