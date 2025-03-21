@@ -9,7 +9,7 @@ API_KEY = "your-google-cloud-api-key"
 genai.configure(api_key=API_KEY)
 
 # Gemini modelini yükle
-model = genai.GenerativeModel('gemini-pro')
+model = genai.GenerativeModel('gemini-2.0-flash')
 
 # Sınıf seviyesine göre soru oluşturma fonksiyonu
 def generate_question(grade):
