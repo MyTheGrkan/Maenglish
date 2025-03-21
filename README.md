@@ -3,11 +3,11 @@
                                 
                                        📚Hangi Kütüphaneleri Kurmalıyım Ve Nasıl kurmalıyım📚
         💖Windows tuşu ve R ya basın ordan "cmd" yazın. Ordanda altdaki kütüphaneleri tek tek yazın ve entera basınca otomatik kurulcaktır.💖
-                                           //////////////////////////////////////
+                                        
                                               * pip install PyQt6
-                                          --------------------------------------
+                                       
                                               * pip install google-generativeai
-                                          ///////////////////////////////////////
+                                        
                                           
                                            ⚒Nasıl Açık kaynak kodunu alırım.🛠
                       💖Github üzerinden main.py dosyasını açın ordan açık kaynak kodunu görebilirsiniz💖
